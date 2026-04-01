@@ -41,10 +41,9 @@ Python projects comply with flake8 style guidelines.*
 
 ---
 
-### Project breakdown
+### Stats
 
-![C](https://img.shields.io/badge/C-5%20projects-4a86c4?style=flat-square&labelColor=1c2e42)
-![Python](https://img.shields.io/badge/Python-2%20projects-4a86c4?style=flat-square&labelColor=1c2e42)
-![Shell/Bash](https://img.shields.io/badge/Shell%2FBash-1%20project-4a86c4?style=flat-square&labelColor=1c2e42)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leandro-emmerling&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=7aafd4&icon_color=4a86c4&text_color=8ab4d4)
+<a href="https://github.com/leandro-emmerling">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=leandro-emmerling&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=7aafd4&icon_color=4a86c4&text_color=8ab4d4&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro-emmerling&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=7aafd4&text_color=8ab4d4&langs_count=4" />
+</a>
