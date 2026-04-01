@@ -43,6 +43,8 @@ Python projects comply with flake8 style guidelines.*
 
 ### Project breakdown
 
-![C](https://img.shields.io/badge/C-5_projects-0d1117?style=for-the-badge&labelColor=1c2e42&color=4a86c4)
-![Python](https://img.shields.io/badge/Python-2_projects-0d1117?style=for-the-badge&labelColor=1c2e42&color=4a86c4)
-![Shell/Bash](https://img.shields.io/badge/Shell%2FBash-1_project-0d1117?style=for-the-badge&labelColor=1c2e42&color=4a86c4)
+![C](https://img.shields.io/badge/C-5_projects-0d1117?style=flat-square&labelColor=1c2e42&color=4a86c4)
+&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/Python-2_projects-0d1117?style=flat-square&labelColor=1c2e42&color=4a86c4)
+&nbsp;&nbsp;
+![Shell/Bash](https://img.shields.io/badge/Shell%2FBash-1_project-0d1117?style=flat-square&labelColor=1c2e42&color=4a86c4)
