@@ -1,0 +1,58 @@
+<svg width="100%" viewBox="0 0 680 374" xmlns="http://www.w3.org/2000/svg">
+  <rect width="680" height="374" fill="#080f1a" rx="6"/>
+
+  <text x="40" y="22" fill="#7aafd4" font-family="monospace" font-size="11" letter-spacing="2" font-weight="500">42 CORE — COMPLETED PROJECTS</text>
+  <line x1="40" y1="28" x2="420" y2="28" stroke="#4a86c4" stroke-width="0.5"/>
+
+  <text x="40" y="50" fill="#4a86c4" font-family="monospace" font-size="11" letter-spacing="1">PROJECT</text>
+  <text x="280" y="50" fill="#4a86c4" font-family="monospace" font-size="11" letter-spacing="1">DESCRIPTION</text>
+  <text x="640" y="50" text-anchor="end" fill="#4a86c4" font-family="monospace" font-size="11" letter-spacing="1">LANG</text>
+  <line x1="40" y1="56" x2="640" y2="56" stroke="#1c2e42" stroke-width="0.5"/>
+
+  <rect x="40" y="60" width="600" height="34" fill="#0d1825" rx="3"/>
+  <text x="52" y="82" fill="#7aafd4" font-family="monospace" font-size="12.5">libft</text>
+  <text x="280" y="82" fill="#8ab4d4" font-family="monospace" font-size="12">Custom C standard library reimplementation</text>
+  <text x="640" y="82" text-anchor="end" fill="#6a8aaa" font-family="monospace" font-size="12">C</text>
+
+  <line x1="40" y1="94" x2="640" y2="94" stroke="#1c2e42" stroke-width="0.5"/>
+  <text x="52" y="116" fill="#7aafd4" font-family="monospace" font-size="12.5">printf</text>
+  <text x="280" y="116" fill="#8ab4d4" font-family="monospace" font-size="12">Recreating ft_printf from scratch</text>
+  <text x="640" y="116" text-anchor="end" fill="#6a8aaa" font-family="monospace" font-size="12">C</text>
+
+  <rect x="40" y="128" width="600" height="34" fill="#0d1825" rx="3"/>
+  <line x1="40" y1="128" x2="640" y2="128" stroke="#1c2e42" stroke-width="0.5"/>
+  <text x="52" y="150" fill="#7aafd4" font-family="monospace" font-size="12.5">get_next_line</text>
+  <text x="280" y="150" fill="#8ab4d4" font-family="monospace" font-size="12">Line-by-line file reading with static buffers</text>
+  <text x="640" y="150" text-anchor="end" fill="#6a8aaa" font-family="monospace" font-size="12">C</text>
+
+  <line x1="40" y1="162" x2="640" y2="162" stroke="#1c2e42" stroke-width="0.5"/>
+  <text x="52" y="184" fill="#7aafd4" font-family="monospace" font-size="12.5">Born2beRoot</text>
+  <text x="280" y="184" fill="#8ab4d4" font-family="monospace" font-size="12">Linux server setup &amp; system administration</text>
+  <text x="640" y="184" text-anchor="end" fill="#6a8aaa" font-family="monospace" font-size="12">Bash</text>
+
+  <rect x="40" y="196" width="600" height="34" fill="#0d1825" rx="3"/>
+  <line x1="40" y1="196" x2="640" y2="196" stroke="#1c2e42" stroke-width="0.5"/>
+  <text x="52" y="218" fill="#7aafd4" font-family="monospace" font-size="12.5">push_swap</text>
+  <text x="280" y="218" fill="#8ab4d4" font-family="monospace" font-size="12">Sorting algorithm with constrained instruction set</text>
+  <text x="640" y="218" text-anchor="end" fill="#6a8aaa" font-family="monospace" font-size="12">C</text>
+
+  <line x1="40" y1="230" x2="640" y2="230" stroke="#1c2e42" stroke-width="0.5"/>
+  <text x="52" y="252" fill="#7aafd4" font-family="monospace" font-size="12.5">python_module00</text>
+  <text x="280" y="252" fill="#8ab4d4" font-family="monospace" font-size="12">Python basics &amp; scripting fundamentals</text>
+  <text x="640" y="252" text-anchor="end" fill="#6a8aaa" font-family="monospace" font-size="12">Python</text>
+
+  <rect x="40" y="264" width="600" height="34" fill="#0d1825" rx="3"/>
+  <line x1="40" y1="264" x2="640" y2="264" stroke="#1c2e42" stroke-width="0.5"/>
+  <text x="52" y="286" fill="#7aafd4" font-family="monospace" font-size="12.5">python_module01</text>
+  <text x="280" y="286" fill="#8ab4d4" font-family="monospace" font-size="12">OOP and data structures in Python</text>
+  <text x="640" y="286" text-anchor="end" fill="#6a8aaa" font-family="monospace" font-size="12">Python</text>
+
+  <line x1="40" y1="298" x2="640" y2="298" stroke="#1c2e42" stroke-width="0.5"/>
+  <text x="52" y="320" fill="#7aafd4" font-family="monospace" font-size="12.5">a_maze_ing</text>
+  <text x="280" y="320" fill="#8ab4d4" font-family="monospace" font-size="12">Maze generator — built in collaboration with @mauricelorenz</text>
+  <text x="640" y="320" text-anchor="end" fill="#6a8aaa" font-family="monospace" font-size="12">Python</text>
+
+  <line x1="40" y1="332" x2="640" y2="332" stroke="#1c2e42" stroke-width="0.5"/>
+  <text x="40" y="350" fill="#4a6a84" font-family="monospace" font-size="10.5" font-style="italic">C projects follow the 42 Norm — max. 25 lines/function, max. 5 functions/file, no ternary operators, no for loops.</text>
+  <text x="40" y="364" fill="#4a6a84" font-family="monospace" font-size="10.5" font-style="italic">Python projects comply with flake8 style guidelines.</text>
+</svg>
