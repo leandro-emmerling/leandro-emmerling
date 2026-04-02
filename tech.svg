@@ -1,19 +1,19 @@
-<svg width="100%" viewBox="0 0 680 148" xmlns="http://www.w3.org/2000/svg">
-  <rect width="680" height="148" fill="#080f1a" rx="6"/>
-  <text x="40" y="22" fill="#7aafd4" font-family="monospace" font-size="11" letter-spacing="2" font-weight="500">TECH</text>
-  <line x1="40" y1="28" x2="120" y2="28" stroke="#4a86c4" stroke-width="0.5"/>
-  <text x="40" y="52" fill="#4a86c4" font-family="monospace" font-size="11" letter-spacing="1">LANGUAGES</text>
-  <rect x="40" y="60" width="28" height="20" fill="#1c2e42" rx="3"/>
-  <text x="54" y="74" text-anchor="middle" fill="#8ab4d4" font-family="monospace" font-size="11">C</text>
-  <rect x="76" y="60" width="56" height="20" fill="#1c2e42" rx="3"/>
-  <text x="104" y="74" text-anchor="middle" fill="#8ab4d4" font-family="monospace" font-size="11">Python</text>
-  <text x="40" y="104" fill="#4a86c4" font-family="monospace" font-size="11" letter-spacing="1">TOOLS &amp; ENVIRONMENT</text>
-  <rect x="40" y="112" width="34" height="20" fill="#1c2e42" rx="3"/>
-  <text x="57" y="126" text-anchor="middle" fill="#8ab4d4" font-family="monospace" font-size="11">Git</text>
-  <rect x="82" y="112" width="46" height="20" fill="#1c2e42" rx="3"/>
-  <text x="105" y="126" text-anchor="middle" fill="#8ab4d4" font-family="monospace" font-size="11">Linux</text>
-  <rect x="136" y="112" width="42" height="20" fill="#1c2e42" rx="3"/>
-  <text x="157" y="126" text-anchor="middle" fill="#8ab4d4" font-family="monospace" font-size="11">Bash</text>
-  <rect x="186" y="112" width="76" height="20" fill="#1c2e42" rx="3"/>
-  <text x="224" y="126" text-anchor="middle" fill="#8ab4d4" font-family="monospace" font-size="11">VirtualBox</text>
+<svg width="100%" viewBox="0 0 680 170" xmlns="http://www.w3.org/2000/svg">
+  <rect width="680" height="170" fill="#080f1a" rx="6"/>
+  <text x="40" y="30" fill="#7aafd4" font-family="monospace" font-size="11" letter-spacing="2" font-weight="500">TECH</text>
+  <line x1="40" y1="38" x2="120" y2="38" stroke="#4a86c4" stroke-width="0.5"/>
+  <text x="40" y="62" fill="#4a86c4" font-family="monospace" font-size="11" letter-spacing="1">LANGUAGES</text>
+  <rect x="40" y="70" width="28" height="20" fill="#1c2e42" rx="3"/>
+  <text x="54" y="84" text-anchor="middle" fill="#8ab4d4" font-family="monospace" font-size="11">C</text>
+  <rect x="76" y="70" width="56" height="20" fill="#1c2e42" rx="3"/>
+  <text x="104" y="84" text-anchor="middle" fill="#8ab4d4" font-family="monospace" font-size="11">Python</text>
+  <text x="40" y="114" fill="#4a86c4" font-family="monospace" font-size="11" letter-spacing="1">TOOLS &amp; ENVIRONMENT</text>
+  <rect x="40" y="122" width="34" height="20" fill="#1c2e42" rx="3"/>
+  <text x="57" y="136" text-anchor="middle" fill="#8ab4d4" font-family="monospace" font-size="11">Git</text>
+  <rect x="82" y="122" width="46" height="20" fill="#1c2e42" rx="3"/>
+  <text x="105" y="136" text-anchor="middle" fill="#8ab4d4" font-family="monospace" font-size="11">Linux</text>
+  <rect x="136" y="122" width="42" height="20" fill="#1c2e42" rx="3"/>
+  <text x="157" y="136" text-anchor="middle" fill="#8ab4d4" font-family="monospace" font-size="11">Bash</text>
+  <rect x="186" y="122" width="76" height="20" fill="#1c2e42" rx="3"/>
+  <text x="224" y="136" text-anchor="middle" fill="#8ab4d4" font-family="monospace" font-size="11">VirtualBox</text>
 </svg>

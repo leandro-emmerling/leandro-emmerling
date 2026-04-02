@@ -1,12 +1,12 @@
-<svg width="100%" viewBox="0 0 680 180" xmlns="http://www.w3.org/2000/svg">
-  <rect width="680" height="180" fill="#080f1a" rx="6"/>
-  <text x="40" y="22" fill="#7aafd4" font-family="monospace" font-size="11" letter-spacing="2" font-weight="500">ABOUT</text>
-  <line x1="40" y1="28" x2="160" y2="28" stroke="#4a86c4" stroke-width="0.5"/>
-  <text x="40" y="52" fill="#8ab4d4" font-family="monospace" font-size="12.5">Trained mechatronics technician with additional background in IT systems</text>
-  <text x="40" y="70" fill="#8ab4d4" font-family="monospace" font-size="12.5">integration. After working in manufacturing and construction, I shifted</text>
-  <text x="40" y="88" fill="#8ab4d4" font-family="monospace" font-size="12.5">focus fully to software development.</text>
-  <text x="40" y="112" fill="#8ab4d4" font-family="monospace" font-size="12.5">Since October 2025, studying full-time at 42 Heilbronn — a project-based</text>
-  <text x="40" y="130" fill="#8ab4d4" font-family="monospace" font-size="12.5">engineering school without lectures. Currently transitioning into Python.</text>
-  <text x="40" y="154" fill="#6a94b4" font-family="monospace" font-size="12.5">Currently focused on building a strong technical foundation. Open to where</text>
-  <text x="40" y="172" fill="#6a94b4" font-family="monospace" font-size="12.5">that leads — the priority is writing good code and understanding systems.</text>
+<svg width="100%" viewBox="0 0 680 210" xmlns="http://www.w3.org/2000/svg">
+  <rect width="680" height="210" fill="#080f1a" rx="6"/>
+  <text x="40" y="30" fill="#7aafd4" font-family="monospace" font-size="11" letter-spacing="2" font-weight="500">ABOUT</text>
+  <line x1="40" y1="38" x2="160" y2="38" stroke="#4a86c4" stroke-width="0.5"/>
+  <text x="40" y="62" fill="#8ab4d4" font-family="monospace" font-size="12.5">Trained mechatronics technician with additional background in IT systems</text>
+  <text x="40" y="80" fill="#8ab4d4" font-family="monospace" font-size="12.5">integration. After working in manufacturing and construction, I shifted</text>
+  <text x="40" y="98" fill="#8ab4d4" font-family="monospace" font-size="12.5">focus fully to software development.</text>
+  <text x="40" y="122" fill="#8ab4d4" font-family="monospace" font-size="12.5">Since October 2025, studying full-time at 42 Heilbronn — a project-based</text>
+  <text x="40" y="140" fill="#8ab4d4" font-family="monospace" font-size="12.5">engineering school without lectures. Currently transitioning into Python.</text>
+  <text x="40" y="164" fill="#6a94b4" font-family="monospace" font-size="12.5">Currently focused on building a strong technical foundation. Open to where</text>
+  <text x="40" y="182" fill="#6a94b4" font-family="monospace" font-size="12.5">that leads — the priority is writing good code and understanding systems.</text>
 </svg>
