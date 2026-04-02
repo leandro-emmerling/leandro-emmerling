@@ -1,3 +1,5 @@
+![banner](banner.svg)
+
 # Leandro Emmerling
 **Student @ 42 Heilbronn · Software Developer in progress**
 Heilbronn, Germany
