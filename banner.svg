@@ -44,6 +44,6 @@
   <circle class="s" cx="624" cy="120" r="1.2" fill="#fff" style="animation-duration:3.0s;animation-delay:1.0s"/>
   <circle class="s" cx="660" cy="140" r="1.1" fill="#fff" style="animation-duration:2.9s;animation-delay:2.9s"/>
 
-  <text x="340" y="72" text-anchor="middle" fill="#e8f0f8" font-family="monospace" font-size="26" font-weight="500" letter-spacing="2">Leandro Emmerling</text>
-  <text x="340" y="100" text-anchor="middle" fill="#4a86c4" font-family="monospace" font-size="13" letter-spacing="1">Student @ 42 Heilbronn · Software Developer in progress</text>
+  <text x="340" y="70" text-anchor="middle" fill="#e8f0f8" font-family="monospace" font-size="32" font-weight="500" letter-spacing="2">Leandro Emmerling</text>
+  <text x="340" y="102" text-anchor="middle" fill="#4a86c4" font-family="monospace" font-size="13" letter-spacing="1">Student @ 42 Heilbronn · Software Developer in progress</text>
 </svg>
