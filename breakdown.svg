@@ -1,29 +1,28 @@
 <svg width="100%" viewBox="0 0 680 220" xmlns="http://www.w3.org/2000/svg">
   <rect width="680" height="220" fill="#080f1a" rx="6"/>
-  <text x="340" y="30" text-anchor="middle" fill="#7aafd4" font-family="monospace" font-size="11" letter-spacing="2" font-weight="500">PROJECT BREAKDOWN</text>
-  <line x1="200" y1="38" x2="480" y2="38" stroke="#4a86c4" stroke-width="0.5"/>
+  <text x="40" y="30" fill="#7aafd4" font-family="monospace" font-size="11" letter-spacing="2" font-weight="500">PROJECT BREAKDOWN</text>
+  <line x1="40" y1="38" x2="280" y2="38" stroke="#4a86c4" stroke-width="0.5"/>
 
-  <circle cx="200" cy="125" r="70" fill="none" stroke="#080f1a" stroke-width="26"/>
-  <circle cx="200" cy="125" r="70" fill="none" stroke="#4a86c4" stroke-width="22" stroke-dasharray="242 441" stroke-dashoffset="2" transform="rotate(-90 200 125)"/>
-  <circle cx="200" cy="125" r="70" fill="none" stroke="#3a8c5a" stroke-width="22" stroke-dasharray="144 441" stroke-dashoffset="-244" transform="rotate(-90 200 125)"/>
-  <circle cx="200" cy="125" r="70" fill="none" stroke="#4a4e58" stroke-width="22" stroke-dasharray="47 441" stroke-dashoffset="-392" transform="rotate(-90 200 125)"/>
+  <circle cx="540" cy="125" r="70" fill="none" stroke="#080f1a" stroke-width="26"/>
+  <circle cx="540" cy="125" r="70" fill="none" stroke="#4a86c4" stroke-width="22" stroke-dasharray="242 441" stroke-dashoffset="2" transform="rotate(-90 540 125)"/>
+  <circle cx="540" cy="125" r="70" fill="none" stroke="#3a8c5a" stroke-width="22" stroke-dasharray="144 441" stroke-dashoffset="-244" transform="rotate(-90 540 125)"/>
+  <circle cx="540" cy="125" r="70" fill="none" stroke="#4a4e58" stroke-width="22" stroke-dasharray="47 441" stroke-dashoffset="-392" transform="rotate(-90 540 125)"/>
+  <text x="540" y="119" text-anchor="middle" fill="#e8f0f8" font-family="monospace" font-size="22" font-weight="500">9</text>
+  <text x="540" y="137" text-anchor="middle" fill="#4a86c4" font-family="monospace" font-size="11">projects</text>
 
-  <text x="200" y="119" text-anchor="middle" fill="#e8f0f8" font-family="monospace" font-size="22" font-weight="500">9</text>
-  <text x="200" y="137" text-anchor="middle" fill="#4a86c4" font-family="monospace" font-size="11">projects</text>
+  <rect x="40" y="68" width="12" height="12" fill="#4a86c4" rx="2"/>
+  <text x="60" y="79" fill="#e8f0f8" font-family="monospace" font-size="13">C</text>
+  <text x="300" y="79" text-anchor="end" fill="#6a8aaa" font-family="monospace" font-size="12">5 projects</text>
 
-  <rect x="360" y="68" width="12" height="12" fill="#4a86c4" rx="2"/>
-  <text x="380" y="79" fill="#e8f0f8" font-family="monospace" font-size="13">C</text>
-  <text x="620" y="79" text-anchor="end" fill="#6a8aaa" font-family="monospace" font-size="12">5 projects</text>
+  <rect x="40" y="98" width="12" height="12" fill="#3a8c5a" rx="2"/>
+  <text x="60" y="109" fill="#e8f0f8" font-family="monospace" font-size="13">Python</text>
+  <text x="300" y="109" text-anchor="end" fill="#6a8aaa" font-family="monospace" font-size="12">3 projects</text>
 
-  <rect x="360" y="98" width="12" height="12" fill="#3a8c5a" rx="2"/>
-  <text x="380" y="109" fill="#e8f0f8" font-family="monospace" font-size="13">Python</text>
-  <text x="620" y="109" text-anchor="end" fill="#6a8aaa" font-family="monospace" font-size="12">3 projects</text>
+  <rect x="40" y="128" width="12" height="12" fill="#4a4e58" rx="2"/>
+  <text x="60" y="139" fill="#e8f0f8" font-family="monospace" font-size="13">Shell / Bash</text>
+  <text x="300" y="139" text-anchor="end" fill="#6a8aaa" font-family="monospace" font-size="12">1 project</text>
 
-  <rect x="360" y="128" width="12" height="12" fill="#4a4e58" rx="2"/>
-  <text x="380" y="139" fill="#e8f0f8" font-family="monospace" font-size="13">Shell / Bash</text>
-  <text x="620" y="139" text-anchor="end" fill="#6a8aaa" font-family="monospace" font-size="12">1 project</text>
-
-  <line x1="360" y1="165" x2="640" y2="165" stroke="#1c2e42" stroke-width="0.5"/>
-  <text x="360" y="185" fill="#4a86c4" font-family="monospace" font-size="11">Currently</text>
-  <text x="620" y="185" text-anchor="end" fill="#e8f0f8" font-family="monospace" font-size="13">42 Core</text>
+  <line x1="40" y1="162" x2="320" y2="162" stroke="#1c2e42" stroke-width="0.5"/>
+  <text x="40" y="182" fill="#4a86c4" font-family="monospace" font-size="11">Currently</text>
+  <text x="300" y="182" text-anchor="end" fill="#e8f0f8" font-family="monospace" font-size="13">42 Core</text>
 </svg>
