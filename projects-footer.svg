@@ -1,0 +1,5 @@
+<svg width="100%" viewBox="0 0 680 50" xmlns="http://www.w3.org/2000/svg">
+  <rect width="680" height="50" fill="#080f1a" rx="6"/>
+  <text x="40" y="18" fill="#4a6a84" font-family="monospace" font-size="11" font-style="italic">C projects follow the 42 Norm — max. 25 lines/function, max. 5 functions/file, no ternary operators, no for loops.</text>
+  <text x="40" y="36" fill="#4a6a84" font-family="monospace" font-size="11" font-style="italic">Python projects comply with flake8 style guidelines.</text>
+</svg>

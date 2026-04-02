@@ -1,20 +1,13 @@
 <svg width="100%" viewBox="0 0 680 160" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-      .s { animation: tw linear infinite; }
-      @keyframes tw { 0%,100%{opacity:0} 50%{opacity:1} }
-    </style>
-  </defs>
-
-  <rect x="0" y="0" width="680" height="160" fill="#080f1a" rx="6"/>
-
-  <circle class="s" cx="18"  cy="11" r="1.0" fill="#fff" style="animation-duration:3.2s;animation-delay:0.3s"/>
-  <circle class="s" cx="54"  cy="28" r="1.4" fill="#fff" style="animation-duration:2.5s;animation-delay:1.7s"/>
-  <circle class="s" cx="97"  cy="8"  r="0.9" fill="#fff" style="animation-duration:4.1s;animation-delay:0.6s"/>
+  <defs><style>.s{animation:tw linear infinite;}@keyframes tw{0%,100%{opacity:0}50%{opacity:1}}</style></defs>
+  <rect width="680" height="160" fill="#080f1a" rx="6"/>
+  <circle class="s" cx="18" cy="11" r="1.0" fill="#fff" style="animation-duration:3.2s;animation-delay:0.3s"/>
+  <circle class="s" cx="54" cy="28" r="1.4" fill="#fff" style="animation-duration:2.5s;animation-delay:1.7s"/>
+  <circle class="s" cx="97" cy="8" r="0.9" fill="#fff" style="animation-duration:4.1s;animation-delay:0.6s"/>
   <circle class="s" cx="143" cy="34" r="1.2" fill="#fff" style="animation-duration:2.8s;animation-delay:2.4s"/>
   <circle class="s" cx="198" cy="14" r="1.0" fill="#fff" style="animation-duration:3.7s;animation-delay:1.1s"/>
   <circle class="s" cx="251" cy="29" r="1.3" fill="#fff" style="animation-duration:2.3s;animation-delay:3.0s"/>
-  <circle class="s" cx="312" cy="9"  r="0.9" fill="#fff" style="animation-duration:4.4s;animation-delay:0.8s"/>
+  <circle class="s" cx="312" cy="9" r="0.9" fill="#fff" style="animation-duration:4.4s;animation-delay:0.8s"/>
   <circle class="s" cx="368" cy="22" r="1.1" fill="#fff" style="animation-duration:3.0s;animation-delay:2.1s"/>
   <circle class="s" cx="424" cy="36" r="1.4" fill="#fff" style="animation-duration:2.6s;animation-delay:1.4s"/>
   <circle class="s" cx="477" cy="12" r="1.0" fill="#fff" style="animation-duration:3.5s;animation-delay:0.2s"/>
@@ -22,28 +15,19 @@
   <circle class="s" cx="588" cy="17" r="1.3" fill="#fff" style="animation-duration:4.0s;animation-delay:1.6s"/>
   <circle class="s" cx="638" cy="38" r="1.1" fill="#fff" style="animation-duration:2.4s;animation-delay:0.5s"/>
   <circle class="s" cx="664" cy="14" r="0.9" fill="#fff" style="animation-duration:3.3s;animation-delay:3.2s"/>
-
-  <circle class="s" cx="22"  cy="58" r="1.2" fill="#fff" style="animation-duration:3.8s;animation-delay:1.9s"/>
-  <circle class="s" cx="68"  cy="82" r="1.0" fill="#fff" style="animation-duration:2.7s;animation-delay:0.4s"/>
+  <circle class="s" cx="22" cy="58" r="1.2" fill="#fff" style="animation-duration:3.8s;animation-delay:1.9s"/>
+  <circle class="s" cx="68" cy="82" r="1.0" fill="#fff" style="animation-duration:2.7s;animation-delay:0.4s"/>
   <circle class="s" cx="112" cy="64" r="1.3" fill="#fff" style="animation-duration:4.2s;animation-delay:2.6s"/>
   <circle class="s" cx="148" cy="98" r="0.9" fill="#fff" style="animation-duration:3.1s;animation-delay:1.2s"/>
-
   <circle class="s" cx="532" cy="61" r="1.1" fill="#fff" style="animation-duration:2.5s;animation-delay:3.4s"/>
   <circle class="s" cx="578" cy="88" r="1.4" fill="#fff" style="animation-duration:3.6s;animation-delay:0.9s"/>
   <circle class="s" cx="622" cy="72" r="1.0" fill="#fff" style="animation-duration:2.2s;animation-delay:2.0s"/>
   <circle class="s" cx="658" cy="96" r="0.9" fill="#fff" style="animation-duration:4.3s;animation-delay:1.5s"/>
-
-  <circle class="s" cx="31"  cy="118" r="1.2" fill="#fff" style="animation-duration:3.4s;animation-delay:0.7s"/>
-  <circle class="s" cx="84"  cy="138" r="1.0" fill="#fff" style="animation-duration:2.8s;animation-delay:2.3s"/>
-  <circle class="s" cx="138" cy="122" r="1.4" fill="#fff" style="animation-duration:4.0s;animation-delay:1.8s"/>
-  <circle class="s" cx="224" cy="142" r="0.9" fill="#fff" style="animation-duration:3.2s;animation-delay:0.1s"/>
+  <circle class="s" cx="31" cy="118" r="1.2" fill="#fff" style="animation-duration:3.4s;animation-delay:0.7s"/>
+  <circle class="s" cx="84" cy="138" r="1.0" fill="#fff" style="animation-duration:2.8s;animation-delay:2.3s"/>
   <circle class="s" cx="318" cy="128" r="1.1" fill="#fff" style="animation-duration:2.6s;animation-delay:3.1s"/>
-  <circle class="s" cx="412" cy="148" r="1.3" fill="#fff" style="animation-duration:3.9s;animation-delay:1.3s"/>
   <circle class="s" cx="498" cy="132" r="1.0" fill="#fff" style="animation-duration:2.4s;animation-delay:2.7s"/>
-  <circle class="s" cx="564" cy="144" r="0.9" fill="#fff" style="animation-duration:4.1s;animation-delay:0.6s"/>
   <circle class="s" cx="624" cy="120" r="1.2" fill="#fff" style="animation-duration:3.0s;animation-delay:1.0s"/>
-  <circle class="s" cx="660" cy="140" r="1.1" fill="#fff" style="animation-duration:2.9s;animation-delay:2.9s"/>
-
   <text x="340" y="70" text-anchor="middle" fill="#e8f0f8" font-family="monospace" font-size="32" font-weight="500" letter-spacing="2">Leandro Emmerling</text>
   <text x="340" y="102" text-anchor="middle" fill="#4a86c4" font-family="monospace" font-size="13" letter-spacing="1">Student @ 42 Heilbronn · Software Developer in progress</text>
 </svg>

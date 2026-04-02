@@ -1,28 +1,10 @@
 ![banner](banner.svg)
 
----
+<img src="about.svg" width="100%"/>
 
-### About
+<img src="tech.svg" width="100%"/>
 
-Trained mechatronics technician with additional background in IT systems integration. After working in manufacturing and construction, I shifted focus fully to software development.
-
-Since October 2025, studying full-time at 42 Heilbronn — a project-based engineering school without lectures. Currently working through low-level C and transitioning into Python.
-
-Currently focused on building a strong technical foundation. Open to where that leads — the priority is writing good code and understanding systems from the ground up.
-
----
-
-### Tech
-
-**Languages**
-`C` `Python`
-
-**Tools & Environment**
-`Git` `Linux` `Bash` `VirtualBox`
-
----
-
-### 42 Core — completed projects
+<img src="projects-header.svg" width="100%"/>
 
 | Project | Description | Lang |
 |---|---|---:|
@@ -34,15 +16,6 @@ Currently focused on building a strong technical foundation. Open to where that 
 | [python_module00](https://github.com/leandro-emmerling/python_module00) | Python basics & scripting fundamentals | Python |
 | [python_module01](https://github.com/leandro-emmerling/python_module01) | OOP and data structures in Python | Python |
 
-*C projects follow the 42 Norm — max. 25 lines per function, max. 5 functions per file, no ternary operators, no for loops, no switch statements.
-Python projects comply with flake8 style guidelines.*
+<img src="projects-footer.svg" width="100%"/>
 
----
-
-### Project breakdown
-
-![C](https://img.shields.io/badge/C-5_projects-0d1117?style=flat-square&labelColor=1c2e42&color=4a86c4)
-&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/Python-2_projects-0d1117?style=flat-square&labelColor=1c2e42&color=4a86c4)
-&nbsp;&nbsp;
-![Shell/Bash](https://img.shields.io/badge/Shell%2FBash-1_project-0d1117?style=flat-square&labelColor=1c2e42&color=4a86c4)
+<img src="breakdown.svg" width="100%"/>
