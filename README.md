@@ -6,6 +6,6 @@
 
 <img src="projects.svg" width="100%"/>
 
-[→ alle Projekte ansehen](https://github.com/leandro-emmerling?tab=repositories)
+&nbsp;&nbsp;&nbsp;[→ alle Projekte ansehen](https://github.com/leandro-emmerling?tab=repositories)
 
 <img src="breakdown.svg" width="100%"/>
