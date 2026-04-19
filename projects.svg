@@ -1,5 +1,5 @@
-<svg width="100%" viewBox="0 0 680 480" xmlns="http://www.w3.org/2000/svg">
-  <rect width="680" height="480" fill="#080f1a" rx="6"/>
+<svg width="100%" viewBox="0 0 680 514" xmlns="http://www.w3.org/2000/svg">
+  <rect width="680" height="514" fill="#080f1a" rx="6"/>
   <text x="40" y="30" fill="#7aafd4" font-family="monospace" font-size="11" letter-spacing="2" font-weight="500">42 CORE — COMPLETED PROJECTS</text>
   <line x1="40" y1="38" x2="420" y2="38" stroke="#4a86c4" stroke-width="0.5"/>
   <text x="40" y="60" fill="#4a86c4" font-family="monospace" font-size="11" letter-spacing="1">PROJECT</text>
@@ -48,11 +48,16 @@
   <text x="220" y="364" fill="#8ab4d4" font-family="monospace" font-size="12">Python collections like lists, tuples etc.</text>
   <text x="620" y="364" text-anchor="end" fill="#6a8aaa" font-family="monospace" font-size="12">Python</text>
   <line x1="40" y1="376" x2="630" y2="376" stroke="#1c2e42" stroke-width="0.5"/>
-  <text x="52" y="398" fill="#7aafd4" font-family="monospace" font-size="12.5">a_maze_ing</text>
-  <text x="220" y="398" fill="#8ab4d4" font-family="monospace" font-size="12">Maze generator, collab w/ @mauricelorenz</text>
+  <text x="52" y="398" fill="#7aafd4" font-family="monospace" font-size="12.5">python_module04</text>
+  <text x="220" y="398" fill="#8ab4d4" font-family="monospace" font-size="12">File I/O, streams &amp; context managers</text>
   <text x="620" y="398" text-anchor="end" fill="#6a8aaa" font-family="monospace" font-size="12">Python</text>
-  <line x1="40" y1="420" x2="630" y2="420" stroke="#1c2e42" stroke-width="0.5"/>
-  <text x="40" y="440" fill="#4a6a84" font-family="monospace" font-size="11" font-style="italic">C projects follow the 42 Norm: max. 25 lines per ft., max. 5 ft. per file,</text>
-  <text x="40" y="456" fill="#4a6a84" font-family="monospace" font-size="11" font-style="italic">no ternary operators, no for loops, no switch statements.</text>
-  <text x="40" y="472" fill="#4a6a84" font-family="monospace" font-size="11" font-style="italic">Python projects follow flake8 and mypy guidelines.</text>
+  <rect x="40" y="410" width="590" height="34" fill="#0d1825" rx="3"/>
+  <line x1="40" y1="410" x2="630" y2="410" stroke="#1c2e42" stroke-width="0.5"/>
+  <text x="52" y="432" fill="#7aafd4" font-family="monospace" font-size="12.5">a_maze_ing</text>
+  <text x="220" y="432" fill="#8ab4d4" font-family="monospace" font-size="12">Maze generator, collab w/ @mauricelorenz</text>
+  <text x="620" y="432" text-anchor="end" fill="#6a8aaa" font-family="monospace" font-size="12">Python</text>
+  <line x1="40" y1="454" x2="630" y2="454" stroke="#1c2e42" stroke-width="0.5"/>
+  <text x="40" y="474" fill="#4a6a84" font-family="monospace" font-size="11" font-style="italic">C projects follow the 42 Norm: max. 25 lines per ft., max. 5 ft. per file,</text>
+  <text x="40" y="490" fill="#4a6a84" font-family="monospace" font-size="11" font-style="italic">no ternary operators, no for loops, no switch statements.</text>
+  <text x="40" y="506" fill="#4a6a84" font-family="monospace" font-size="11" font-style="italic">Python projects follow flake8 and mypy guidelines.</text>
 </svg>
